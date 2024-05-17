@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(12, 9, 9);
+  }
+
+  H1 {
+    font-family: fantasy;
+    color: antiquewhite;
+    font-weight: 200;
+  }
+
+  H2 {
+    color: antiquewhite;
+  }
+
+  p {
+    color: antiquewhite;
+    font-family: fantasy;
+  }
+
+  marquee {
+    color: antiquewhite;
+    font-family:cursive;
+  }
+
+    a {
+        color:antiquewhite;
+        border-style: double;
+        border-color: blanchedalmond;
+        padding: 5px; 
+    }
+
+    a:visited {
+    color:antiquewhite;
+    border-style: double;
+    border-color: blanchedalmond;
+    padding: 5px;
+  }
+
+  a:hover {
+    color:rgb(34, 8, 2);
+    background-color:whitesmoke;
+    border-style: groove;
+    border-color: chocolate;
+  }
+
+img {
+    height: 500px;
+    width:auto
+}
+
+table, th, td {
+    border: 1px solid;
+    border-color: blanchedalmond;
+    color:antiquewhite;
+    font-family: fantasy;
+    font-weight:300;
+  }
+
+  ul {
+    color:antiquewhite;
+    font-family:cursive;
+  }
+
+  hr {
+    border-style: groove;
+    color:antiquewhite;
+  }
+
+  form {
+    color: antiquewhite;
+    font-family:cursive;
+  }
+
+  .question:hover {
+    font-size: 20px;
+    background-color:antiquewhite;
+    color:black;
+    font-family: monospace;
+    padding: 1px;
+    border-style: dashed;
+    border-color: brown;
+ }
+
+ 
